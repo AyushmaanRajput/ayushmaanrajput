@@ -1,4 +1,4 @@
-[![Masthead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://ayushmaanrajput.github.io){:target="_blank"}
+[![Masthead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://ayushmaanrajput.github.io)
 
 <h1 align="center">Hi 👋, I'm Ayushmaan Rajput</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
