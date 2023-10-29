@@ -2,11 +2,11 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h1 align="left">Hi 👋, I'm Ayushmaan Rajput</h1>
-    <h3 align="left">A passionate Full Stack Developer from India</h3>
+    <h1 >Hi 👋, I'm Ayushmaan Rajput</h1>
+    <h3 >A passionate Full Stack Developer from India</h3>
   </div>
   <div style="flex: 1;">
-    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
   </div>
 </div>
 
