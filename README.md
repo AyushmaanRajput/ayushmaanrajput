@@ -1,8 +1,22 @@
 [![Masthead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://ayushmaanrajput.github.io)
+<hr />
 
 ![Coding](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)
+
 **Hi 👋, I'm Ayushmaan Rajput**
-*A passionate Full Stack Developer from India*
+
+I'm a passionate Full Stack Developer from India, specializing in web development and creating amazing user experiences. My skills include front-end and back-end technologies, and I'm always eager to learn and explore new technologies to build better and more efficient applications.
+
+**Here are some of my key skills:**
+
+- HTML, CSS, JavaScript
+- React, Vue.js
+- Node.js, Express.js
+- MongoDB, MySQL
+- Git and Version Control
+
+Feel free to explore my GitHub repositories, and don't hesitate to get in touch if you want to collaborate or discuss a project. Let's create something amazing together!
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmaanrajput&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmaanrajput" /> </p>
