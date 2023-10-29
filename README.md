@@ -1,10 +1,8 @@
 [![Masthead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://ayushmaanrajput.github.io)
 <hr />
-<h1> Hi 👋, I'm Ayushmaan Rajput**</h1>
-I'm a passionate Full Stack Developer from India, specializing in web development and creating amazing user experiences. My skills include front-end and back-end technologies, and I'm always eager to learn and explore new technologies to build better and more efficient applications.
-Feel free to explore my GitHub repositories, and don't hesitate to get in touch if you want to collaborate or discuss a project. Let's create something amazing together!
-
-
+<h1 align="center"> Hi 👋, I'm Ayushmaan Rajput</h1>
+<p align="center">I'm a passionate Full Stack Developer from India, specializing in web development and creating amazing user experiences. My skills include front-end and back-end technologies, and I'm always eager to learn and explore new technologies to build better and more efficient applications.
+Feel free to explore my GitHub repositories, and don't hesitate to get in touch if you want to collaborate or discuss a project. Let's create something amazing together!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmaanrajput&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmaanrajput" /> </p>
 
