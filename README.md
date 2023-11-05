@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **BunJS**
 
-- 👨‍💻 All of my projects are available at - Portfolio Link **https://ayushmaanrajput.github.io/**
+- 👨‍💻 All of my projects are available at - Portfolio Link **https://AyushmaanRajput.github.io/**
 
 - 💬 Ask me about **MERN & Framer**
 
